@@ -1,4 +1,4 @@
-# feup-cgra [Video demo](https://github.com/msramalho/feup-cgra/cgra.mp4)
+# feup-cgra [Video demo download](https://github.com/msramalho/feup-cgra/blob/master/cgra.mp4?raw=true)
 Univeristy Subject - Computer Graphics
 
 [Faculty of Engeneering of University of Porto](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL)
