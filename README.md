@@ -8,4 +8,4 @@ Univeristy Subject - Computer Graphics
  - Keyboard controlled submarine that launches torpedos to blow targets.
  - Graphically implemented wall clock
  - Overall graphical concepts and design patterns
- - [WORKSHOP CHROMEEXPERIMENTS](https://workshop.chromeexperiments.com/)
+ - [chrome experiments](https://workshop.chromeexperiments.com/)
