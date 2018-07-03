@@ -9,3 +9,6 @@ Univeristy Subject - Computer Graphics
  - Graphically implemented wall clock
  - Overall graphical concepts and design patterns
  - [chrome experiments](https://workshop.chromeexperiments.com/)
+
+
+<p align="center"><img src="https://i.imgur.com/IkJQDuv.gif"></p>
